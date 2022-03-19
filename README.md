@@ -10,4 +10,7 @@ An example of using the method of qudratures to solve integral equation:
 
 The Jacobi method is used to solve the corresponding SLAE. 
 That method is parallelized using different approaches: OpenMP, MPI and hybrid OpenMP/MPI.
-The accelerations are also shown in the results.
+The accelerations are also shown in the results:
+
+![image](https://user-images.githubusercontent.com/66224979/159137655-2b61d103-6371-433f-990e-1565b6c045f1.png)
+
