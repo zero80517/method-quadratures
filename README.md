@@ -12,5 +12,5 @@ The Jacobi method is used to solve the corresponding SLAE.
 That method is parallelized using different approaches: OpenMP, MPI and hybrid OpenMP/MPI.
 The accelerations are also shown in the results:
 
-![image](https://user-images.githubusercontent.com/66224979/159137655-2b61d103-6371-433f-990e-1565b6c045f1.png)
+![image](https://user-images.githubusercontent.com/66224979/159153887-6f105f2a-3bd3-4c08-a027-a03bfc3cfa2c.png)
 
